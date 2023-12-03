@@ -1392,7 +1392,7 @@ font-size: 15px;
     height: 100%;
     width: 100%;
     background-size: cover;
-    background-position: top;
+    background-position: left;
 }
 .slider-fade .item .caption {
     z-index: 9;
@@ -6429,6 +6429,7 @@ select {
     padding: 7px 17px;
     position: fixed;
     bottom: 60px;
+    border-radius: 20px;
     right: 30px;
     background-color: #000;
     color: #fff;
@@ -6442,8 +6443,8 @@ select {
     position: fixed;
     width: 45px;
     height: 45px;
-    bottom: 128px;
-    right: 30px;
+    bottom: 57px;
+    left: 30px;
     color: #fff;
     border-radius: 50px;
     text-align: center;
