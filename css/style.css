@@ -6436,3 +6436,18 @@ select {
     box-shadow: 2px 2px 3px #9990;
     z-index: 100;
 }
+
+.float2 {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 128px;
+    right: 30px;
+    
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 50px;
+    box-shadow: 2px 2px 3px #9990;
+    z-index: 100;
+}
