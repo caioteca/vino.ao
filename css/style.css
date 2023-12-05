@@ -7231,3 +7231,18 @@ select {
     box-shadow: 2px 2px 3px #9990;
     z-index: 100;
 }
+
+.header-title {
+    padding: 8px;
+    height: 40px;
+    width: 100%;
+    background-color: #c19d60;
+    display: flex;
+    justify-content: center;
+}
+
+.header-title .pack-title {
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+}
