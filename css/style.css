@@ -2558,17 +2558,19 @@ blockquote cite:before {
 }
 
 .chef-recommends .item .category {
+    padding-top: 14px;
     position: absolute;
+    font-weight: 600;
     background: #C19D60;
     color: #fff;
-    font-size: 12px;
-    height: 40px;
-    width: 40px;
-    line-height: 40px;
+    font-size: 20px;
+    height: 80px;
+    width: 90px;
+    line-height: 27px;
     letter-spacing: 1px;
     text-align: center;
     vertical-align: middle;
-    transform: rotate(-20deg);
+    transform: rotate(359deg);
     z-index: 3;
     left: 30px;
     top: 30px;
